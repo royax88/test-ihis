@@ -1,0 +1,12 @@
+{
+  "resourceName": "testS3Ihis",
+  "policyUUID": "032a0e5e",
+  "bucketName": "test-s3-ihis-sg",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

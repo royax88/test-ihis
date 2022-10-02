@@ -10,6 +10,12 @@
       "StackName": "amplify-testihisapp-staging-61005",
       "StackId": "arn:aws:cloudformation:ap-southeast-1:774347598418:stack/amplify-testihisapp-staging-61005/b1ea0840-414f-11ed-b86a-0605eb134852",
       "AmplifyAppId": "d9yuwbt74zx6a"
+    },
+    "categories": {
+      "auth": {
+        "undefined": {},
+        "testihisapp": {}
+      }
     }
   }
 }
